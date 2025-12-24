@@ -8,8 +8,4 @@ function Home() {
   );
 }
 
-function teste2() {
-  console.log("Teste de identacaçao errada");
-}
-
 export default Home;
